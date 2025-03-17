@@ -29,7 +29,7 @@ const specialCharMap: Record<string, string> = {
 
 const TypingGame = () => {
   // State declarations
-  const [availableSets, setAvailableSets] = useState<Record<string, PhraseSet>>(phraseSets);
+  const availableSets: Record<string, PhraseSet> = phraseSets;
   const [currentSetKey, setCurrentSetKey] = useState<string>("familySet");
   const [currentPhraseIndex, setCurrentPhraseIndex] = useState<number>(0);
   const [displayPhrase, setDisplayPhrase] = useState<string>("");
