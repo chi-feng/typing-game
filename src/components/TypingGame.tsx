@@ -604,10 +604,11 @@ const TypingGame = () => {
                         `}
                         style={{
                           display: 'inline-block',
-                          ...(showSpaceCharacter ? {} : { marginRight: '0.25em' })
+                          ...(showSpaceCharacter ? {} : { marginRight: '0.25em' }),
+                          minWidth: spaceIndex === currentIndex && !showSpaceCharacter ? '0.5em' : 'auto'
                         }}
                       >
-                        {showSpaceCharacter ? "⎵" : ""}
+                        {showSpaceCharacter ? "⎵" : (spaceIndex === currentIndex ? "\u00A0" : "")}
                       </span>
                     )}
                   </span>
