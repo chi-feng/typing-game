@@ -1,0 +1,39 @@
+{
+  "familySet": {
+    "name": "Family Phrases",
+    "phrases": [
+      "The quick brown fox jumps over the lazy dog",
+      "I love Anya Feng"
+    ]
+  },
+  "anaesthesiaSet": {
+    "name": "Anaesthesia Exam Phrases",
+    "phrases": [
+      "Haemodynamically stable throughout",
+      "Adequate depth of anaesthesia maintained",
+      "End-tidal CO₂ within normal limits",
+      "Peripheral oxygen saturation remained > 96% on FiO₂ 0.4",
+      "BIS monitoring used to titrate depth of anaesthesia",
+      "Difficult airway anticipated due to Mallampati grade IV",
+      "C-MAC video laryngoscope used for intubation",
+      "Cricoid pressure applied during rapid sequence induction",
+      "Arterial line inserted under aseptic technique",
+      "Induced with propofol, fentanyl, and rocuronium",
+      "Maintenance with sevoflurane in 50% oxygen/air mix",
+      "Ondansetron 4 mg IV given for antiemesis",
+      "Sugammadex 200 mg administered for reversal of neuromuscular blockade",
+      "Infusion of remifentanil titrated to effect",
+      "Co-amoxiclav 1.2 g IV given as prophylactic antibiotic",
+      "Paracetamol and parecoxib administered for multimodal analgesia",
+      "Ultrasound-guided transverse abdominis plane (TAP) block performed using 20 mL of 0.25% levobupivacaine",
+      "Spinal anaesthesia with 0.5% hyperbaric bupivacaine and 25 mcg fentanyl",
+      "Epidural catheter sited at L3–L4, secured with sterile dressing",
+      "Loss-of-resistance technique used with saline to identify epidural space",
+      "No evidence of laryngospasm or bronchospasm",
+      "Postoperative nausea and vomiting (PONV) risk stratified as high",
+      "Latex allergy documented – all equipment confirmed latex-free",
+      "Difficult venous access – ultrasound-guided cannulation required",
+      "Anaesthetic plan discussed with patient and consent obtained"
+    ]
+  }
+} 

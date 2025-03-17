@@ -1,4 +1,3 @@
-import './App.css'
 import TypingGame from './components/TypingGame'
 
 function App() {
